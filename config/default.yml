@@ -1,0 +1,21 @@
+# Default config
+
+app:
+  port: 3030
+
+rendrApp:
+
+assets:
+  minify: false
+  cdn:
+    protocol: http
+    cnames: ['localhost']
+    pathPrefix: ''
+
+api:
+  default: 
+    host: thecatapi.com
+    protocol: http
+  catfacts:
+    host: catfacts-api.appspot.com
+    protocol: http

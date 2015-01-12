@@ -1,0 +1,31 @@
+[4mRunning "runNode" task[24m
+
+[4mRunning "handlebars:compile" (handlebars) task[24m
+File "app/templates/compiledTemplates.js" created.
+
+[4mRunning "rendr_stitch:compile" (rendr_stitch) task[24m
+11 Jan 19:12:39 - [33m[nodemon] v0.7.10[0m
+11 Jan 19:12:39 - [33m[nodemon] to restart at any time, enter `rs`[0m
+11 Jan 19:12:39 - [32m[nodemon] watching: /Users/margretepps/Sites/catsApp[0m
+11 Jan 19:12:39 - [32m[nodemon] starting `node --debug index.js`[0m
+File "public/mergedAssets.js" created.
+
+[4mRunning "stylus:compile" (stylus) task[24m
+File [36mpublic/styles.css[39m created.
+
+[4mRunning "watch" task[24m
+Waiting...server pid 42829 listening on port 3030 in development mode
+Failed to open socket on port 5858, waiting 1000 ms before retrying
+Failed to open socket on port 5858, waiting 1000 ms before retrying
+11 Jan 19:12:40 - [1;31m[nodemon] app crashed - waiting for file changes before starting...[0m
+11 Jan 19:12:42 - [nodemon] restarting due to changes...
+11 Jan 19:12:42 - [nodemon] /Users/margretepps/Sites/catsApp/public/mergedAssets.js
+
+
+11 Jan 19:12:42 - [32m[nodemon] starting `node --debug index.js`[0m
+server pid 42848 listening on port 3030 in development mode
+Failed to open socket on port 5858, waiting 1000 ms before retrying
+Failed to open socket on port 5858, waiting 1000 ms before retrying
+Failed to open socket on port 5858, waiting 1000 ms before retrying
+11 Jan 19:12:44 - [1;31m[nodemon] app crashed - waiting for file changes before starting...[0m
+11 Jan 19:14:59 - [nodemon] exiting
